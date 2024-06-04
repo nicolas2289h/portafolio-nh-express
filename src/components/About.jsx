@@ -5,11 +5,8 @@ import CssLogo from '../assets/css-logo.png'
 import ReactLogo from '../assets/react-logo.png'
 import BootstrapLogo from '../assets/bootstrap-logo.png'
 import NodeLogo from '../assets/node-logo.png'
-// import JavaLogo from '../assets/logo-java.png'
-// import SpringbootLogo from '../assets/logo-springboot.png'
 import PostmanLogo from '../assets/logo-postman.png'
 import TailwindLogo from '../assets/tailwind-logo.png'
-// import SassLogo from '../assets/sass-logo.png'
 import GithubLogo from '../assets/github-logo.png'
 import { motion } from 'framer-motion'
 import { fadeIn } from '../variants';
@@ -84,10 +81,6 @@ const About = () => {
                 <img width={85} src={JsLogo} alt="" />
                 <p>Javascript</p>
               </div>
-              {/* <div className='flex flex-col place-items-center'>
-                <img width={91} src={SassLogo} alt="" />
-                <p>Sass</p>
-              </div> */}
               <div className='flex flex-col place-items-center'>
                 <img width={90} src={BootstrapLogo} alt="" />
                 <p className='pt-2'>Bootstrap</p>
@@ -100,14 +93,6 @@ const About = () => {
                 <img width={85} src={NodeLogo} alt="" />
                 <p className='pt-1'>Node Js</p>
               </div>
-              {/* <div className='flex flex-col place-items-center'>
-                <img width={85} src={JavaLogo} className='rounded-[50%]' alt="" />
-                <p>Java</p>
-              </div> */}
-              {/* <div className='flex flex-col place-items-center'>
-                <img width={78} src={SpringbootLogo} className='rounded-[50%]' alt="" />
-                <p className='pt-1'>SpringBoot</p>
-              </div> */}
               <div className='flex flex-col place-items-center'>
                 <img width={78} src={ReactLogo} className='rounded-[50%] mb-1' alt="" />
                 <p>React</p>
