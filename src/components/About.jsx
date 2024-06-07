@@ -29,7 +29,7 @@ const About = () => {
           >
             <h2 className='h2 text-accent'>Sobre Mi</h2>
             <h3 className='h3 mb-4'>🚀 ¡Hola! Soy Nicolás Huanca, tesista de Ingeniería Informática y Desarrollador Web.</h3>
-            <p>Me dedico a la creación de soluciones tecnológicas. Actualmente, me encuentro realizando proyectos en forma freelance y avanzando con mi proyecto de tesis, donde aplico y amplío mis conocimientos en el campo de la informática 💻</p>
+            <p>Actualmente, me encuentro realizando trabajos en forma freelance y desarrollando proyectos de software como FullStack Developer para la empresa NoCountry 💻</p>
 
             {/* <div>
                 <div className='text-[40px] font-tertiary text-gradient mb-2'>
